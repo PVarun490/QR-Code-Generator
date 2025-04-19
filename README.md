@@ -12,4 +12,4 @@ A simple and modern web app to generate QR codes for any text, URL, or other dat
 
 
 🖥️ Demo
-Live Demo — check it out!
+[My Project Demo](https://pvarun490.github.io/QR-Code-Generator/) — check it out!
