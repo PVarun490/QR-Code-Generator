@@ -11,5 +11,5 @@ A simple and modern web app to generate QR codes for any text, URL, or other dat
 ⚡ Instant generation with no page reloads
 
 
-🖥️ Demo
+🖥️
 [My Project Demo](https://pvarun490.github.io/QR-Code-Generator/) — check it out!
